@@ -22,3 +22,10 @@ $ python example 3.0 2.0
 
 5.0
 ```
+
+
+## How to test this code
+
+```shell
+$ pytest example.py
+```
