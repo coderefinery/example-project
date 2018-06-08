@@ -5,6 +5,13 @@ def simple_function(x, y):
     return x + y
 
 
+def exciting_feature(x, y):
+    """
+    Returns the product of the two arguments.
+    """
+    return x * y
+
+
 if __name__ == '__main__':
 
     # there are better ways to pass command line arguments
