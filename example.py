@@ -8,6 +8,13 @@ def simple_function(x, y):
     return x - y
 
 
+def another_function(x):
+    """
+    Returns square of the argument.
+    """
+    return x * x
+
+
 if __name__ == '__main__':
 
     # there are better ways to pass command line arguments
