@@ -2,4 +2,4 @@
 
 # Example project
 
-Two be written ...
+Simple example project used in teaching Git (contains errors).
